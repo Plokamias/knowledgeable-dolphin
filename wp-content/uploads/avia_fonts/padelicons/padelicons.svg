@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="padelicons" horiz-adv-x="1000" >
+<font-face font-family="padelicons" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="truck" unicode="&#xe800;" d="M357 64q0 29-21 51t-50 21-50-21-22-51 22-50 50-21 50 21 21 50z m-214 286h214v143h-88q-7 0-12-5l-109-109q-5-5-5-12v-17z m714-286q0 29-21 51t-50 21-50-21-22-51 22-50 50-21 50 21 21 50z m143 607v-571q0-8-2-15t-8-10-9-6-13-4-13-1-14 0-12 0q0-59-42-101t-101-42-101 42-42 101h-214q0-59-42-101t-101-42-101 42-42 101h-36q-1 0-12 0t-15 0-12 1-13 4-9 6-8 10-2 15q0 15 10 25t25 11v178q0 5 0 20t0 21 2 19 3 21 8 17 13 17l110 110q11 11 28 18t33 7h89v107q0 15 11 26t25 10h571q15 0 25-10t11-26z" horiz-adv-x="1000" />
+
+<glyph glyph-name="tennis" unicode="&#xe839;" d="M300 775c-166 0-300-134-300-300s134-300 300-300l250 0 225-225c16-16 25-25 45-25 7 0 14 0 22 8 8 8 8 15 8 22 0 20-11 31-25 45l-225 225 0 250c0 166-134 300-300 300z m250-400l0-150-150 0z m-475-200c-41 0-75-34-75-75 0-41 34-75 75-75s75 34 75 75c0 41-34 75-75 75z" horiz-adv-x="850" />
+</font>
+</defs>
+</svg>
